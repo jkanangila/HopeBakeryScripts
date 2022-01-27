@@ -1,2 +1,9 @@
 # HopeBakeryScripts
-A series of scripts for collecting and processing data from the bakery's api
+
+## Series of scripts desinged to:
+	* Retrieve and save customer's information from and to the databse
+	* Retrieve and post orders
+
+## Librairies:
+	* Python 3
+	* pyscopg
